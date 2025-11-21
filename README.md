@@ -7,7 +7,7 @@
   ### ✨ _Coding with Style_ ✨
 
   <a href="https://github.com/AerynSalon">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Building+Beautiful+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer;Backend+Engineer;Open+Source+Contributor;Building+Beautiful+Experience" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,7 +15,7 @@
   <a href="https://instagram.com/AerynSalon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:contact@aerynsalon.com" target="_blank">
+  <a href="mailto:aerynsalon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://your-website.com" target="_blank">
@@ -30,9 +30,9 @@
 
 Halo! Saya **Aeryn**. Selamat datang di profil GitHub saya.
 
-- 🔭 Saya sedang mengerjakan **[Masukkan Proyek Kamu Di Sini]**
-- 🌱 Saya sedang belajar tentang **React Native & Flutter**
-- 💬 Tanyakan saya tentang **Web Development & Digital Styling**
+- 🔭 Saya sedang mengerjakan **[Aplikasi Stok Produk]**
+- 🌱 Saya sedang belajar tentang **React Native & Cloud Computing**
+- 💬 Tanyakan saya tentang **Java, PHP, & Go**
 - ⚡ Fakta menarik: **Coding itu seperti seni, setiap baris adalah kuasan cat.**
 
 ---
@@ -41,12 +41,16 @@ Halo! Saya **Aeryn**. Selamat datang di profil GitHub saya.
 
 <div align="center">
   
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <br/>
   
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
